@@ -1,4 +1,6 @@
 #include<stdio.h>
+ 
+/*ICC TEORICA - PROF RUDINEI*/
 
 /*Faça um programa em C que identifica se duas retas se cruzam e em qual eixo
 elas se cruzam. O programa deve solicitar ao usuário os coeficientes a, b e c de
