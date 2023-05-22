@@ -1,4 +1,5 @@
 #include<stdio.h>
+/*ICC TEORICA - PROF RUDINEI*/
 
 /*Faça um programa em C que recebe um número inteiro positivo N como entrada, seguido por N
 números inteiros positivos. O programa deve verificar se cada um dos N números é um número 
