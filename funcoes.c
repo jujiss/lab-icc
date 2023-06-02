@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*ICC TEORICA - PROF RUDINEI*/
+
 /*1. implementar funcao que recebe a e b e coloca o valor de a em b e de b em a*/
 
 /*foram utilizados dois ponteiros a e b e depois a=b e b=a. ou seja, a aponta para
